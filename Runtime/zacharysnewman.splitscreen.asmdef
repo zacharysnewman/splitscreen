@@ -1,0 +1,16 @@
+{
+    "name": "zacharysnewman.splitscreen",
+    "rootNamespace": "",
+    "references": [
+        "GUID:18a74f1a0e084438a9488fcab313f6cf"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
