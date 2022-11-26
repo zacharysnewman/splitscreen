@@ -78,7 +78,6 @@ namespace Splitscreen.Tests
             }
         }
 
-
         public void Run()
         {
             StartCoroutine(Tests());
